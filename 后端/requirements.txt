@@ -1,0 +1,9 @@
+fastapi==0.78.0
+Flask==1.1.2
+flask_cors==3.0.10
+joblib==1.1.0
+numpy==1.20.3
+scikit_learn==1.1.0
+starlette==0.19.1
+torch==1.11.0
+uvicorn==0.17.6
